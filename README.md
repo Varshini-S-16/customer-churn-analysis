@@ -27,3 +27,7 @@ This project analyzes customer churn behavior and builds a predictive model usin
 
 ## 💼 Business Impact
 Helps identify high-risk customers and improve retention strategies.
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
